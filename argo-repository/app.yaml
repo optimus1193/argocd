@@ -9,7 +9,7 @@ spec:
     server: https://kubernetes.default.svc
   project: default
   source:
-    path: argo-repository
+    path: secret
     repoURL: https://github.com/optimus1193/argocd.git
     targetRevision: main
     plugin: 
